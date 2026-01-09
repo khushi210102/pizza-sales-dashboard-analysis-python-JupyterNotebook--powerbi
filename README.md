@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Dashboard Analysis (Python | Jupyter Notebook | Power BI)
 
-## 📌 OSummary
+## 📌 Summary
 An end-to-end data analysis project that explores pizza sales data using Python for analysis and Power BI for interactive dashboard visualization.
 
 ---
