@@ -79,7 +79,7 @@ The pizza store wants to understand:
 ## ▶️ How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/khushi210102/pizza-sales-dashboard-analysis-python-JupyterNotebook-powerbi.git
+   git clone https://github.com/khushi210102/pizza-sales-dashboard-analysis-python-JupyterNotebook--powerbi.git
    
 ---
 
@@ -102,7 +102,7 @@ The dashboard helps stakeholders quickly understand performance and trends.
 
 ## 👤 Author & Contact
 
-Name: Khushi Kumari
-GitHub: https://github.com/khushi210102
-LinkedIn: https://www.linkedin.com/in/khushi-kumari-a6b556286/
+- Name: Khushi Kumari
+- GitHub: https://github.com/khushi210102
+- LinkedIn: https://www.linkedin.com/in/khushi-kumari-a6b556286/
 
