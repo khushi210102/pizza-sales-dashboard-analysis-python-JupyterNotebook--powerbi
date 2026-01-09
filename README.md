@@ -79,7 +79,7 @@ The pizza store wants to understand:
 ## ▶️ How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/khushi210102/pizza-sales-dashboard-analysis.git
+   git clone https://github.com/khushi210102/pizza-sales-dashboard-analysis-python-JupyterNotebook-powerbi.git
    
 ---
 
